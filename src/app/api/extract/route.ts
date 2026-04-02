@@ -62,7 +62,7 @@ export async function POST(request: Request) {
     await fs.writeFile(pdfPath, buffer)
 
     const python = await resolvePythonBinary(projectRoot)
-    await runExtractorCommand(python, ['pdf_vision_engine.py'], projectRoot)
+    await runExtractorCommand(python, ['pdf_vision_engine_v2.py'], projectRoot)
 
     const outputPath = path.join(projectRoot, 'public', 'data', 'questions.json')
     const raw = await fs.readFile(outputPath, 'utf-8')

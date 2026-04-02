@@ -2,15 +2,20 @@
 
 import { useState, useEffect } from 'react';
 import ExamTabs from './ExamTabs';
-import DashboardView from './DashboardView';
+import DashboardView from '@/components/DashboardView';
 
-export default function DataViewer() {
-  const [data, setData] = useState(null);
+type DataViewerProps = {
+  refreshKey?: number;
+};
+
+export default function DataViewer({ refreshKey = 0 }: DataViewerProps) {
+  const [data, setData] = useState<any>(null);
   const [viewMode, setViewMode] = useState('exam'); // 'exam' ou 'dashboard'
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
+      setLoading(true);
       try {
         const res = await fetch('/api/questions', { cache: 'no-store' });
         const json = await res.json();
@@ -29,7 +34,7 @@ export default function DataViewer() {
       }
     };
     fetchData();
-  }, []);
+  }, [refreshKey]);
 
   if (loading) {
     return (
