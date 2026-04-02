@@ -1,0 +1,918 @@
+{
+  "questoes": [
+    {
+      "numero": 1,
+      "texto": "A leitura do Texto 1 permite afirmar que a Conferência das Partes (COP)",
+      "opcoes": [
+        "é um órgão das Nações Unidas cuja preocupação central são as questões ambientais.",
+        "é uma instituição brasileira cujo objetivo é o monitoramento das mudanças climáticas no mundo.",
+        "é um evento simbólico em que cada país sede, anualmente, mostra suas ações em defesa do meio ambiente.",
+        "é um evento financiado pelas Nações Unidas em que os líderes mundiais discutem o desenvolvimento econômico."
+      ],
+      "coords": [
+        675,
+        75,
+        791,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_3_0.png",
+      "id": "p3q0"
+    },
+    {
+      "numero": 2,
+      "texto": "Segundo o Texto 1, a Conferência das Partes (COP) tem como função",
+      "opcoes": [
+        "estabelecer metas ambiciosas para mitigar os efeitos das mudanças climáticas.",
+        "acompanhar os avanços nos preparativos da cidade-sede das conferências.",
+        "mitigar o aquecimento global e manter o aumento da temperatura abaixo de 2°.",
+        "implementar os compromissos globais de combate às mudanças climáticas."
+      ],
+      "coords": [
+        821,
+        75,
+        920,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_3_1.png",
+      "id": "p3q1"
+    },
+    {
+      "numero": 3,
+      "texto": "No Texto 1, a intenção comunicativa predominante é",
+      "opcoes": [
+        "informar o leitor sobre um evento que acontecerá no Brasil para discutir questões relativas às mudanças climáticas.",
+        "comunicar à população que o Brasil, no contexto internacional, é uma grande potência nas questões ambientais.",
+        "apresentar ao leitor os altos investimentos do governo federal para que o Brasil possa sediar a COP30.",
+        "refletir sobre o papel dos líderes mundiais em relação à necessidade de superação dos problemas ambientais."
+      ],
+      "coords": [
+        110,
+        65,
+        250,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p4_ctx_texto_1"
+      ],
+      "originalImage": "/snippets/q_4_0.png",
+      "id": "p4q0"
+    },
+    {
+      "numero": 4,
+      "texto": "De acordo com o Texto 1, a realização da COP30 no Brasil",
+      "opcoes": [
+        "tem provocado um sentimento de insatisfação da população brasileira pelos gastos para sua realização.",
+        "está servindo de exemplo para inspirar outros países a realizarem eventos turísticos como a COP30.",
+        "tem gerado preocupações no que diz respeito à infraestrutura existente na cidade que sediará esse evento.",
+        "está levando a população brasileira a uma tomada de consciência sobre a necessidade de cuidar da Amazônia."
+      ],
+      "coords": [
+        267,
+        65,
+        415,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p4_ctx_texto_1"
+      ],
+      "originalImage": "/snippets/q_4_1.png",
+      "id": "p4q1"
+    },
+    {
+      "numero": 5,
+      "texto": "O Texto 1 organiza-se, predominantemente, a partir do tipo textual",
+      "opcoes": [
+        "argumentativo, porque visa formar a opinião do leitor sobre uma temática de grande relevância social.",
+        "descritivo, já que tem por fim apresentar as características da Amazônia, a maior floresta do planeta.",
+        "narrativo, visto que conta sobre a realização de alguns eventos realizados para discutir questões ambientais.",
+        "explicativo, uma vez que apresenta dados e informações sobre a COP30 para esclarecer o leitor sobre a temática."
+      ],
+      "coords": [
+        434,
+        65,
+        544,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p4_ctx_texto_1"
+      ],
+      "originalImage": "/snippets/q_4_2.png",
+      "id": "p4q2"
+    },
+    {
+      "numero": 6,
+      "texto": "A partir da leitura do Texto 1, é correto inferir que",
+      "opcoes": [
+        "o Brasil pode se destacar na COP30 não só por possuir a Amazônia, mas também por usar energias limpas e renováveis.",
+        "a COP30 pode tornar o Brasil um dos líderes globais e uma referência mundial na utilização de energia limpa.",
+        "a Amazônia tem metade das florestas do mundo com papel na absorção de carbono e redução do efeito estufa na atmosfera.",
+        "o Brasil sempre exerceu papel de liderança global de maior destaque no combate às mudanças climáticas."
+      ],
+      "coords": [
+        560,
+        65,
+        692,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p4_ctx_texto_1"
+      ],
+      "originalImage": "/snippets/q_4_3.png",
+      "id": "p4q3"
+    },
+    {
+      "numero": 7,
+      "texto": "O primeiro parágrafo do Texto 1 cumpre o papel de",
+      "opcoes": [
+        "antecipar para o leitor possíveis conclusões sobre o evento COP30.",
+        "apresentar, em linhas gerais, o recorte temático do texto ao leitor.",
+        "discutir os problemas enfrentados pela organização da COP30.",
+        "sintetizar, em linhas gerais, as metas traçadas para a edição anterior."
+      ],
+      "coords": [
+        709,
+        65,
+        806,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p4_ctx_texto_1"
+      ],
+      "originalImage": "/snippets/q_4_4.png",
+      "id": "p4q4"
+    },
+    {
+      "numero": 8,
+      "texto": "Do ponto de vista de sua organização sintática, é correto afirmar que",
+      "opcoes": [
+        "o trecho apresenta 3 períodos.",
+        "o trecho apresenta 2 períodos.",
+        "o primeiro período apresenta 2 orações.",
+        "o segundo período apresenta 5 orações."
+      ],
+      "coords": [
+        180,
+        77,
+        273,
+        600
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p5_ctx_1"
+      ],
+      "originalImage": "/snippets/q_5_0.png",
+      "id": "p5q0"
+    },
+    {
+      "numero": 9,
+      "texto": "As expressões QUE (1) e ONDE (2) referem-se à",
+      "opcoes": [
+        "conferência.",
+        "Zona Azul.",
+        "Zona Verde.",
+        "ONU."
+      ],
+      "coords": [
+        291,
+        77,
+        384,
+        185
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p5_ctx_1"
+      ],
+      "originalImage": "/snippets/q_5_1.png",
+      "id": "p5q1"
+    },
+    {
+      "numero": 10,
+      "texto": "A expressão AS NEGOCIAÇÕES POLÍTICAS E OS ENCONTROS DIPLOMÁTICOS (3), sintaticamente, assume a função de",
+      "opcoes": [
+        "objeto direto.",
+        "complemento nominal.",
+        "complemento adverbial.",
+        "sujeito."
+      ],
+      "coords": [
+        394,
+        77,
+        490,
+        321
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p5_ctx_1"
+      ],
+      "originalImage": "/snippets/q_5_2.png",
+      "id": "p5q2"
+    },
+    {
+      "numero": 11,
+      "texto": "Sobre o uso do elemento linguístico APESAR DE (1) no primeiro período do trecho, é correto afirmar que",
+      "opcoes": [
+        "retoma uma ideia de conformidade em relação àquilo que já foi dito.",
+        "introduz uma ideia de concessão em relação a algo que será dito.",
+        "reforça uma ideia de consequência em relação àquilo que será dito.",
+        "imprime uma ideia de condição em relação a algo que já foi dito."
+      ],
+      "coords": [
+        670,
+        77,
+        762,
+        642
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p5_ctx_2"
+      ],
+      "originalImage": "/snippets/q_5_3.png",
+      "id": "p5q3"
+    },
+    {
+      "numero": 12,
+      "texto": "A expressão IMPULSIONAR (2) tem sentido de",
+      "opcoes": [
+        "fomentar.",
+        "arrefecer.",
+        "implementar.",
+        "postergar."
+      ],
+      "coords": [
+        779,
+        77,
+        872,
+        218
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p5_ctx_2"
+      ],
+      "originalImage": "/snippets/q_5_4.png",
+      "id": "p5q4"
+    },
+    {
+      "numero": 13,
+      "texto": "Os elementos linguísticos NO ENTANTO (3) e MAS TAMBÉM (5) assumem, respectivamente, o valor de",
+      "opcoes": [
+        "locução prepositiva e conjunção.",
+        "conjunção e locução conjuntiva.",
+        "preposição e preposição.",
+        "conjunção e preposição."
+      ],
+      "coords": [
+        80,
+        70,
+        180,
+        442
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_6_0.png",
+      "id": "p6q0"
+    },
+    {
+      "numero": 14,
+      "texto": "O uso das **aspas**, indicadas por (4), é justificado porque",
+      "opcoes": [
+        "marca uma citação direta.",
+        "enfatiza a voz de uma autoridade.",
+        "ironiza as atitudes do governo.",
+        "marca uma citação indireta."
+      ],
+      "coords": [
+        194,
+        70,
+        292,
+        497
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_6_1.png",
+      "id": "p6q1"
+    },
+    {
+      "numero": 15,
+      "texto": "Sobre a acentuação de palavras no trecho, é correto afirmar que",
+      "opcoes": [
+        "1 e 6 são acentuadas por conterem hiato.",
+        "3 é acentuada por ser paroxítona.",
+        "6 é acentuada por ser oxítona.",
+        "4 e 5 são acentuadas pela mesma regra."
+      ],
+      "coords": [
+        406,
+        70,
+        504,
+        452
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p6_ctx_1"
+      ],
+      "originalImage": "/snippets/q_6_2.png",
+      "id": "p6q2"
+    },
+    {
+      "numero": 16,
+      "texto": "O uso da vírgula assinalada com 2 justifica-se por",
+      "opcoes": [
+        "marcar omissão de um verbo.",
+        "separar termos de mesma função sintática.",
+        "separar oração intercalada.",
+        "separar um aposto."
+      ],
+      "coords": [
+        517,
+        70,
+        614,
+        461
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p6_ctx_1"
+      ],
+      "originalImage": "/snippets/q_6_3.png",
+      "id": "p6q3"
+    },
+    {
+      "numero": 17,
+      "texto": "A expressão CRESCIMENTO VERDE (7), considerando sua inserção no Texto 1, significa um modelo de desenvolvimento que",
+      "opcoes": [
+        "busca financiar a abertura de indústrias que utilizam energias renováveis.",
+        "privilegia a sustentabilidade ambiental em detrimento do desenvolvimento econômico.",
+        "se ampara na participação cidadã e no seu engajamento em questões sociais e ambientais.",
+        "concilia o crescimento econômico com a promoção da sustentabilidade ambiental."
+      ],
+      "coords": [
+        628,
+        70,
+        748,
+        922
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p6_ctx_1"
+      ],
+      "originalImage": "/snippets/q_6_4.png",
+      "id": "p6q4"
+    },
+    {
+      "numero": 18,
+      "texto": "O sentido global do Texto 2 é construído pela",
+      "opcoes": [
+        "articulação entre a linguagem verbal, materializada no título; em sintonia com a linguagem não verbal, materializada no sorriso do trabalhador ao cortar a última árvore.",
+        "presença da linguagem não verbal, que mostra o machado e a motosserra; e a área de mata devastada.",
+        "articulação entre a linguagem não verbal, materializada nas árvores cortadas, no machado e na motosserra; e a linguagem verbal, materializada no diálogo entre os dois trabalhadores e o título.",
+        "presença da linguagem verbal, materializada no diálogo entre os trabalhadores, em contraste com o título do texto."
+      ],
+      "coords": [
+        761,
+        70,
+        880,
+        922
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_6_5.png",
+      "id": "p6q5"
+    },
+    {
+      "numero": 19,
+      "texto": "Quanto ao gênero textual dos Textos 1 e 2, é correto afirmar:",
+      "opcoes": [
+        "o Texto 1 é um comentário.",
+        "o Texto 2 é uma charge.",
+        "o Texto 1 é um editorial.",
+        "o Texto 2 é uma tirinha."
+      ],
+      "coords": [
+        92,
+        73,
+        178,
+        486
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_7_0.png",
+      "id": "p7q0"
+    },
+    {
+      "numero": 20,
+      "texto": "Os Textos 1 e 2 apresentam em comum",
+      "opcoes": [
+        "o recorte temático.",
+        "o registro informal da linguagem.",
+        "a predominância da linguagem conotativa.",
+        "a tipologia textual."
+      ],
+      "coords": [
+        194,
+        73,
+        290,
+        486
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_7_1.png",
+      "id": "p7q1"
+    },
+    {
+      "numero": 21,
+      "texto": "A Conferência das Nações Unidas sobre Mudança do Clima (Conferência das Partes – COP30 –) terá sua 30ª edição em 2025, no Brasil. Em algarismos romanos, os números 30 e 2025 são representados, respectivamente, por",
+      "opcoes": [
+        "VVV e LLVX.",
+        "XXX e MMXV.",
+        "CCC e MCXV.",
+        "XXX e MMXXV."
+      ],
+      "coords": [
+        367,
+        73,
+        477,
+        486
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_7_2.png",
+      "id": "p7q2"
+    },
+    {
+      "numero": 22,
+      "texto": "Suponha que, para a realização da COP30, em Belém, foram reservados, inicialmente, 4.900 lugares em auditórios. Durante a preparação, a organização adicionou mais 350 novos lugares e, em seguida, precisou interditar 150 lugares por questões de segurança. Se cada auditório após essas alterações descritas comporta 50 lugares, o número de auditórios que serão necessários para acomodar todos os lugares disponíveis é",
+      "opcoes": [
+        "100.",
+        "102.",
+        "101.",
+        "103."
+      ],
+      "coords": [
+        495,
+        73,
+        649,
+        486
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_7_3.png",
+      "id": "p7q3"
+    },
+    {
+      "numero": 23,
+      "texto": "Considerando, para efeito de cálculo, 40 mil visitantes, dos quais 7 mil são integrantes da ONU e de delegações de países-membros, a probabilidade de que, ao escolher um visitante ao acaso, ele pertença ao grupo integrantes da ONU e de delegações de países-membros, é",
+      "opcoes": [
+        "17,5%.",
+        "10%.",
+        "12,5%.",
+        "20%."
+      ],
+      "coords": [
+        782,
+        73,
+        908,
+        486
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [
+        "p7_ctx_1"
+      ],
+      "originalImage": "/snippets/q_7_4.png",
+      "id": "p7q4"
+    },
+    {
+      "numero": 24,
+      "texto": "Se, em uma simulação menor do evento, fossem esperados cerca 30 mil visitantes no total, mantendo-se a mesma proporção de integrantes da ONU e de delegações de países-membros, o número de integrantes da ONU e de delegações de países-membros seria cerca de",
+      "opcoes": [
+        "5250.",
+        "3750.",
+        "5050.",
+        "4850."
+      ],
+      "coords": [
+        75,
+        80,
+        185,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_8_0.png",
+      "id": "p8q0"
+    },
+    {
+      "numero": 25,
+      "texto": "Considere que cada um dos 40 mil visitantes da COP30 consumirá, em média, 2 litros de água por dia, que será distribuída em garrafas de 500 mL, organizadas em grades contendo 12 garrafas cada. Durante os 12 dias de evento, o número total de grades necessárias para garantir a hidratação de todos os participantes será",
+      "opcoes": [
+        "140.000.",
+        "160.000.",
+        "120.000.",
+        "200.000."
+      ],
+      "coords": [
+        220,
+        80,
+        345,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_8_1.png",
+      "id": "p8q1"
+    },
+    {
+      "numero": 26,
+      "texto": "Considere que um BRT (Bus Rapid Transit) Metropolitano sai do terminal a cada 20 minutos, sempre com lotação máxima de 200 passageiros. Supondo que todos os 40 mil visitantes precisassem usar apenas esse BRT para se deslocar e que o serviço operasse de forma ininterrupta, o tempo necessário para que todos eles fossem transportados seria",
+      "opcoes": [
+        "80h.",
+        "50h.",
+        "46h30min.",
+        "66h40min."
+      ],
+      "coords": [
+        380,
+        80,
+        495,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_8_2.png",
+      "id": "p8q2"
+    },
+    {
+      "numero": 27,
+      "texto": "Uma empresa de turismo organizou uma excursão para os participantes da COP30 e alugou 2 ônibus, conforme indicado a seguir.\n\n* O primeiro ônibus levou 36 passageiros, cada um pagando R$ 75,00.\n* O segundo ônibus levou 48 passageiros, cada um pagando R$ 60,00.\n\nO motorista do primeiro ônibus recebeu 20% do valor arrecadado dos seus passageiros. Já o motorista do segundo ônibus recebeu 25% do valor arrecadado dos seus passageiros. Sabendo que o restante do dinheiro foi entregue ao coordenador da excursão, o valor total recebido pelo coordenador foi",
+      "opcoes": [
+        "R$ 6.469,00.",
+        "R$ 1.260,00.",
+        "R$ 4.320,00.",
+        "R$ 3.069,00."
+      ],
+      "coords": [
+        530,
+        80,
+        735,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_8_3.png",
+      "id": "p8q3"
+    },
+    {
+      "numero": 28,
+      "texto": "De acordo com o Texto 1, para preparar Belém para a COP30, estão em andamento 38 obras, distribuídas em quatro categorias: 14 de infraestrutura, 8 de hospedagem, 8 de mobilidade e 8 de saneamento. O percentual aproximado das obras que pertencem à categoria infraestrutura é",
+      "opcoes": [
+        "41%.",
+        "34%.",
+        "37%.",
+        "31%."
+      ],
+      "coords": [
+        770,
+        80,
+        880,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_8_4.png",
+      "id": "p8q4"
+    },
+    {
+      "numero": 29,
+      "texto": "Durante a preparação para a COP30, em Belém (2025), uma empresa contraiu um empréstimo de R$ 80.000,00 a juros simples, com taxa de 1,5% ao mês, pelo prazo de 10 meses. Sabendo que o empréstimo será quitado integralmente ao final do prazo firmado, o montante a ser pago, ao término dos 10 meses, será",
+      "opcoes": [
+        "R$ 88.000,00.",
+        "R$ 12.000,00.",
+        "R$ 68.000,00.",
+        "R$ 92.000,00."
+      ],
+      "coords": [
+        89,
+        80,
+        214,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_9_0.png",
+      "id": "p9q0"
+    },
+    {
+      "numero": 30,
+      "texto": "Suponha que, em um projeto de um pavilhão sustentável para a COP30, a estrutura é representada pelo triângulo retângulo ABC, conforme ilustrado na figura 1. FIGURA 1: projeto do pavilhão sustentável da COP30. Na figura 1, o ângulo em A é reto, o ângulo em B mede $30^\\circ$ e a cobertura inclinada BC mede 5 m. Um painel ecológico retangular (ADEF) foi instalado, com a parte superior da parede, CD, medindo 1,6 m. Nesses termos, as medidas, em centímetros, dos segmentos AD (altura do painel) e BE (base inclinada da cobertura remanescente), respectivamente, são",
+      "opcoes": [
+        "100 e 200.",
+        "90 e 180.",
+        "80 e 160.",
+        "100 e 220."
+      ],
+      "coords": [
+        231,
+        80,
+        680,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_9_1.png",
+      "id": "p9q1"
+    },
+    {
+      "numero": 31,
+      "texto": "Suponha que, para a COP30 em Belém, tenha sido projetada uma praça de convivência em formato retangular, medindo 60 metros de comprimento por 40 metros de largura. No centro da praça, será construído um espaço circular para apresentações culturais, com 15 metros de raio, que não poderá ser utilizado para circulação. Nesses termos, a área, em metros quadrados, disponível para circulação nessa praça é",
+      "opcoes": [
+        "$225 \\cdot (10 - 3\\pi)$.",
+        "$25 \\cdot (90 - 2\\pi)$.",
+        "$75 \\cdot (32 - 3\\pi)$.",
+        "$75 \\cdot (32 - 2\\pi)$."
+      ],
+      "coords": [
+        700,
+        80,
+        855,
+        920
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_9_2.png",
+      "id": "p9q2"
+    },
+    {
+      "numero": 32,
+      "texto": "Na COP30, que será realizada na cidade de Belém do Pará, em 2025, cinco países apresentaram as seguintes metas de redução de emissões de $CO_2$ (dióxido de carbono) até 2030: 42%, 37%, 48%, 35% e 38%. Posteriormente, outro país apresentou sua meta e, com isso, a média das metas dos seis países passou a ser 41,5%. Com base nessas informações, a meta apresentada pelo $6º$ país foi",
+      "opcoes": [
+        "47%.",
+        "51%.",
+        "49%.",
+        "45%."
+      ],
+      "coords": [
+        109,
+        93,
+        260,
+        930
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_10_0.png",
+      "id": "p10q0"
+    },
+    {
+      "numero": 33,
+      "texto": "Imagine que, para preparar Belém para a COP30, o governo destinou X bilhões de reais em recursos extras além dos investimentos já anunciados. Suponha que foram apresentados os seguintes gastos:\n- 1/3 desse valor X foi gasto na modernização do aeroporto internacional;\n- 1 bilhão foi utilizado em saneamento;\n- 4/5 do que ainda restava foi gasto em mobilidade urbana;\n- sobraram 0,6 bilhão de reais, ao final, para pequenos ajustes na cidade.\nCom base nessas informações, o valor de X, em bilhões de reais, foi",
+      "opcoes": [
+        "6.",
+        "8.",
+        "10.",
+        "12."
+      ],
+      "coords": [
+        273,
+        93,
+        474,
+        696
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_10_1.png",
+      "id": "p10q1"
+    },
+    {
+      "numero": 34,
+      "texto": "Um dos problemas da cidade de Belém para sediar a COP30 é a hospedagem dos visitantes. Estima-se que 40 mil pessoas precisam de acomodações, mas a rede hoteleira conta, em média, com 47 leitos por hotel. Em virtude disso, o número mínimo de hotéis que seriam necessários para atender a todos os visitantes do evento é",
+      "opcoes": [
+        "854.",
+        "850.",
+        "852.",
+        "856."
+      ],
+      "coords": [
+        487,
+        93,
+        640,
+        930
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_10_2.png",
+      "id": "p10q2"
+    },
+    {
+      "numero": 35,
+      "texto": "Na preparação para a COP30, o governo precisou aumentar a quantidade de leitos disponíveis. Se a oferta inicial são de 20 mil leitos e, a cada mês de obras de expansão, forem acrescentados 500 novos leitos, uma relação que representa a quantidade de leitos em função do tempo de obras, em meses, x, é",
+      "opcoes": [
+        "$f(x) = 500x$.",
+        "$f(x) = 20500x$.",
+        "$f(x) = 500 + 20000x$.",
+        "$f(x) = 20000 + 500x$."
+      ],
+      "coords": [
+        654,
+        93,
+        796,
+        500
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_10_3.png",
+      "id": "p10q3"
+    },
+    {
+      "numero": 36,
+      "texto": "Uma equipe de 120 operários leva 15 meses para concluir determinada obra de mobilidade para a COP30. Se essa equipe for reduzida para 80 operários, mantendo o mesmo ritmo de trabalho, o tempo necessário, em meses, para a conclusão da mesma obra será",
+      "opcoes": [
+        "22,5.",
+        "20.",
+        "18,5.",
+        "25."
+      ],
+      "coords": [
+        810,
+        93,
+        935,
+        340
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_10_4.png",
+      "id": "p10q4"
+    },
+    {
+      "numero": 37,
+      "texto": "Durante as obras para a COP30, uma das entregas de materiais precisa ser organizada em pacotes. Um tipo de material vem em lotes de 36 unidades, e outro, em lotes de 48 unidades. Os pacotes devem ser montados de modo que cada um tenha a mesma quantidade de cada material, sem que sobre nada. Sendo assim, a maior quantidade de pacotes que podem ser formados será",
+      "opcoes": [
+        "6.",
+        "8.",
+        "12.",
+        "24."
+      ],
+      "coords": [
+        85,
+        96,
+        222,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_11_0.png",
+      "id": "p11q0"
+    },
+    {
+      "numero": 38,
+      "texto": "Considere que, para a instalação de painéis solares durante a COP30, será utilizado um espaço retangular de dimensões $x$ (largura) e $y$ (comprimento). No projeto de adaptação, a largura será reduzida em 3 metros e o comprimento será ampliado em 5 metros.\nA expressão que representa a nova área desse espaço, em função de $x$ e $y$, é",
+      "opcoes": [
+        "$xy + 5x - 3y - 15$.",
+        "$xy - 5x + 3y - 15$.",
+        "$xy - 3x + 5y + 15$.",
+        "$xy + 3x - 5y - 15$."
+      ],
+      "coords": [
+        240,
+        96,
+        381,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_11_1.png",
+      "id": "p11q1"
+    },
+    {
+      "numero": 39,
+      "texto": "Sabendo que um dos auditórios da Zona Verde da COP30 terá o formato de um triângulo isósceles, com os lados de mesma medida, $l$, em que um dos ângulos mede $120^\\circ$ e que se deseja estender um tapete de comprimento igual à altura relativa ao vértice que contém o ângulo de $120^\\circ$, a medida da altura, em função do lado $l$, é",
+      "opcoes": [
+        "$\\frac{l}{3}$",
+        "$2l$",
+        "$\\frac{l}{2}$",
+        "$l$"
+      ],
+      "coords": [
+        399,
+        96,
+        555,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_11_2.png",
+      "id": "p11q2"
+    },
+    {
+      "numero": 40,
+      "texto": "Suponha que, para reduzir o consumo de copos descartáveis durante a COP30, sejam vendidos itens oficiais reutilizáveis do evento, como: garrafas, no valor de R$ 40,00; e copos no valor de R$ 15,00. Sabendo que, ao todo, serão comercializados 1000 itens e se espera uma arrecadação de R$ 25.000,00, o número de garrafas e copos reutilizáveis que serão vendidos, respectivamente, será",
+      "opcoes": [
+        "600 e 400.",
+        "400 e 600.",
+        "500 e 300.",
+        "300 e 500."
+      ],
+      "coords": [
+        571,
+        96,
+        706,
+        915
+      ],
+      "tem_tabela": false,
+      "tabela_md": "",
+      "contextos_ids": [],
+      "originalImage": "/snippets/q_11_3.png",
+      "id": "p11q3"
+    }
+  ],
+  "textos_compartilhados": [
+    {
+      "id": "p4_ctx_texto_1",
+      "texto": "O Texto 1, ao qual as questões 3 a 7 se referem, não está presente nesta imagem.",
+      "questoes": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "p5_ctx_1",
+      "texto": "A conferência é dividida em Zona Azul e Zona Verde. A Zona Azul, que(1) é gerenciada diretamente pela ONU, é onde(2) acontecem as negociações políticas e os encontros diplomáticos(3). Já a Zona Verde sedia painéis para o público geral, apresentação de ONG e outras atividades, inclusive as culturais.",
+      "questoes": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "p5_ctx_2",
+      "texto": "Apesar de(1) impulsionar(2) o desenvolvimento, a escolha da capital paraense como sede da COP carrega implicações ambientais e geopolíticas. No entanto(3), o desafio logístico é considerável. Acelerando os projetos de infraestrutura, o governo também se preocupa com a rede hoteleira: “(4)A questão dos leitos é crítica. Os preços subiram muito e isso pode afastar não só delegações oficiais, mas também(5) a sociedade civil, empresários e cientistas. A COP precisa ser acessível”(4), alertou Corrêa do Lago.",
+      "questoes": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "p6_ctx_1",
+      "texto": "Com uma das matrizes **energéticas**(1) mais limpas do mundo,(2) um **histórico**(3) no uso de **biocombustíveis**(4) e investimentos crescentes em tecnologias **sustentáveis**(5), o **país**(6) pretende apresentar um novo modelo de **crescimento verde**(7).",
+      "questoes": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "p7_ctx_1",
+      "texto": "O evento da COP30, em Belém, estima receber cerca de 40 mil visitantes, dos quais, pelo menos, 7 mil serão integrantes da ONU e de delegações de países-membros.",
+      "questoes": [
+        23
+      ]
+    }
+  ]
+}
