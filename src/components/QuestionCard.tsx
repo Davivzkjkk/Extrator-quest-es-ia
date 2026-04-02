@@ -13,6 +13,7 @@ interface QuestionCardProps {
   opcoes: string[]
   tem_tabela?: boolean
   tabela_md?: string
+  imagens_associadas?: Array<{ id: string; tipo: string; descricao: string; caminho: string }>
   contextos?: Array<{ id: string; texto: string }>
   onClick?: () => void
 }
@@ -24,6 +25,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   opcoes,
   tem_tabela,
   tabela_md,
+  imagens_associadas = [],
   contextos = [],
   onClick
 }) => {
@@ -113,6 +115,27 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
               <section className="p-3 border rounded-lg bg-blue-50/60 border-blue-200">
                 <p className="text-[10px] font-bold text-blue-700 uppercase mb-2">Tabela detectada</p>
                 <RichText content={tabela_md} className="prose prose-sm max-w-none text-[11px] text-foreground/80" />
+              </section>
+            )}
+
+            {imagens_associadas.length > 0 && (
+              <section className="p-3 border rounded-lg bg-purple-50/60 border-purple-200">
+                <p className="text-[10px] font-bold text-purple-700 uppercase mb-3">Imagens Associadas</p>
+                <div className="grid grid-cols-2 gap-2">
+                  {imagens_associadas.map((img) => (
+                    <div key={img.id} className="border border-purple-200 rounded overflow-hidden bg-white hover:shadow-md transition-shadow">
+                      <img 
+                        src={img.caminho} 
+                        alt={img.descricao}
+                        className="w-full h-24 object-cover"
+                      />
+                      <div className="p-1">
+                        <p className="text-[9px] font-semibold text-purple-700">{img.tipo}</p>
+                        <p className="text-[8px] text-muted-foreground truncate">{img.descricao}</p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
               </section>
             )}
           </div>

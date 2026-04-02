@@ -5,6 +5,7 @@ import { FileText, UploadCloud, Zap, X } from 'lucide-react'
 import { AnimatePresence, motion } from 'framer-motion'
 import { QuestionCard } from '@/components/QuestionCard'
 import { RichText } from '@/components/RichText'
+import ExamTabs from '@/components/ExamTabs'
 
 type SharedContext = {
   id: string
